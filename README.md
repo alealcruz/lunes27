@@ -18,4 +18,4 @@ Y para **ejecutarlo**:
 java HolaMundo
 ```
 ## Aprendizaje de Java:
-Te recomiendo asistir a las clases del profesor JuanDiego/Chema
+Te recomiendo asistir a las clases del profesor JuanDiego/Chema :wink:
