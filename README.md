@@ -1,8 +1,21 @@
-# lunes27
+# Prueba del lunes 27 de septiembre
 
-# ESTE ES EL CONTENIDO DEL ARCHIVO README
-## segunda línea
-### tercera línea
+## Descripción
 
-esto es un cambio
-https://github.com/alealcruz/lunes27.git
+El programa "HolaMundo" es una prueba que verifica la conformidad del sistema para ejecutar código Java
+
+## Compilación y ejecución del programa
+
+Para **compilar** el programa teclea lo siguiente (es necesario tener instalado el *JDK*):
+
+```console
+javac HolaMundo.java
+```
+
+Y para **ejecutarlo**:
+
+```console
+java HolaMundo
+```
+## Aprendizaje de Java:
+Te recomiendo asistir a las clases del profesor JuanDiego/Chema
