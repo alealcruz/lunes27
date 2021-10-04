@@ -8,7 +8,7 @@ public class HolaMundo {
 		String naranja = "\033[33m";
 		String azul = "\033[34m";
 	
-		System.out.println("¡Hola mundo!");
-		System.out.println("Pruebas desde GIT en CLI");
+		System.out.println(naranja + "¡Hola mundo!");
+		System.out.println(azul + "Pruebas desde GIT en CLI");
 	}
 }
